@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+}
+
+.bike {
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+    width: 50%;
+}
